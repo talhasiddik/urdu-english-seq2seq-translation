@@ -7,4 +7,5 @@ py -3.11 -m venv .venv
 .venv/Scripts/activate
 
 installing dependencies:
-pip install -r requirements.txt
+  
+  pip install -r requirements.txt
