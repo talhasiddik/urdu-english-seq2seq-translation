@@ -6,7 +6,7 @@ If you use this Urdu-to-English Neural Machine Translation system in your resear
 
 ```
 Siddik, T. (2023). Urdu-to-English Neural Machine Translation [Computer software]. 
-https://github.com/talhasiddik/urdu-to-english-nmt
+https://github.com/talhasiddik/urdu-english-seq2seq-translation
 ```
 
 ## BibTeX
@@ -16,7 +16,7 @@ https://github.com/talhasiddik/urdu-to-english-nmt
   author = {Siddik, Talha},
   title = {Urdu-to-English Neural Machine Translation},
   year = {2023},
-  url = {https://github.com/talhasiddik/urdu-to-english-nmt},
+  url = {https://github.com/talhasiddik/urdu-english-seq2seq-translation},
 }
 ```
 
@@ -24,17 +24,16 @@ https://github.com/talhasiddik/urdu-to-english-nmt
 
 ```
 T. Siddik, "Urdu-to-English Neural Machine Translation," 2023. [Online]. 
-Available: https://github.com/talhasiddik/urdu-to-english-nmt
+Available: https://github.com/talhasiddik/urdu-english-seq2seq-translation
 ```
 
 ## Chicago Style
 
 ```
 Siddik, Talha. 2023. "Urdu-to-English Neural Machine Translation." 
-https://github.com/talhasiddik/urdu-to-english-nmt.
+https://github.com/talhasiddik/urdu-english-seq2seq-translation.
 ```
 
-Please adjust the URL according to the actual repository location if this project is hosted online.
 
 ## Project Components
 
