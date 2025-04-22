@@ -2,6 +2,12 @@
 
 This project implements a neural machine translation (NMT) system to translate text from Urdu to English. The model utilizes a custom LSTM-based encoder-decoder architecture with attention mechanism, providing a deep learning approach to cross-lingual translation.
 
+---
+
+🚀 **Live Portfolio Site:**  
+🔗 [https://talhasiddik.github.io/urdu-english-seq2seq-translation/](https://talhasiddik.github.io/urdu-english-seq2seq-translation/)
+
+
 ## Project Overview
 
 The translation system is built from scratch using PyTorch, featuring custom implementations of LSTM cells and attention mechanisms. The architecture follows the seq2seq paradigm with attention, which is particularly effective for handling language pairs with different word orders and grammatical structures, such as Urdu and English.
