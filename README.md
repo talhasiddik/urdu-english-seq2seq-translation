@@ -6,7 +6,7 @@ This project implements a neural machine translation (NMT) system to translate t
 
 The translation system is built from scratch using PyTorch, featuring custom implementations of LSTM cells and attention mechanisms. The architecture follows the seq2seq paradigm with attention, which is particularly effective for handling language pairs with different word orders and grammatical structures, such as Urdu and English.
 
-### Key Features
+### 📌 Key Features
 
 - Custom LSTM cell implementation
 - Encoder-LSTM for processing source language (Urdu)
@@ -14,7 +14,6 @@ The translation system is built from scratch using PyTorch, featuring custom imp
 - Beam search decoding for improved translation quality
 - BLEU score evaluation for quantitative performance assessment
 
-## Architecture
 
 ### Model Design
 
@@ -38,7 +37,7 @@ The translation system is built from scratch using PyTorch, featuring custom imp
    - Explores the search space more effectively than greedy decoding
    - Results in more natural and accurate translations
 
-## Technical Stack
+## 🛠 Technical Stack
 
 - **Framework**: PyTorch
 - **Language**: Python 3.x
@@ -88,4 +87,22 @@ The model was evaluated using BLEU score on three datasets:
 - Test set
 
 The performance demonstrates the model's ability to learn translation patterns between Urdu and English, with attention mechanisms helping to align words and phrases between the two languages.
+
+### ⚠️ Disclaimer
+This project is for educational purposes only.
+
+### 🙋‍♂️ Author
+Talha Siddik
+
+## Citation
+
+If you use this project in your research or work, please cite it appropriately. See [CITATION.md](CITATION.md) for citation formats.
+
+## Plagiarism Policy
+
+This project maintains a strict plagiarism policy. All code and research implemented are original work unless explicitly stated. For more details, see [PLAGIARISM_POLICY.md](PLAGIARISM_POLICY.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
